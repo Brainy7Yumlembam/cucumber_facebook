@@ -1,0 +1,5 @@
+Feature: Orghrm login validation
+ Scenario: login with valid credentials 
+	  Given user is on homepage
+ 		When user enter username,password and login
+	  Then user should login successfully
