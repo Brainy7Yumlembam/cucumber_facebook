@@ -1,3 +1,5 @@
+# Output
+![Screenshot (113)](https://github.com/user-attachments/assets/338ef632-bc59-4620-a418-e62d209d696b) 
 # Cucumber_facebook
 # Overview
 This project aims to automate the login process for Facebook using Selenium WebDriver and Cucumber. It demonstrates how to use BDD (Behavior-Driven Development) to create a clear and concise specification of the login functionality, ensuring the login works as expected.
