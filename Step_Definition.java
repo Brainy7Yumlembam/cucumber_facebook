@@ -32,7 +32,7 @@ public class Loginstpdef {
 		Thread.sleep(3000);
 		d.findElement(By.xpath("//input[@placeholder='Email address or phone number']")).sendKeys("9378020083");
 		Thread.sleep(3000);
-		d.findElement(By.xpath("//input[@placeholder='Password']")).sendKeys("Brainy@123");
+		d.findElement(By.xpath("//input[@placeholder='Password']")).sendKeys("XXXXXXXXX");
 		Thread.sleep(3000);
 		d.findElement(By.xpath("//button[@type='submit']")).click();
 		Thread.sleep(3000);
