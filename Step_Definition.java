@@ -30,7 +30,7 @@ public class Loginstpdef {
 	public void user_enter_username_password_and_login() throws InterruptedException 
 	{
 		Thread.sleep(3000);
-		d.findElement(By.xpath("//input[@placeholder='Email address or phone number']")).sendKeys("9378020083");
+		d.findElement(By.xpath("//input[@placeholder='Email address or phone number']")).sendKeys("XXXXXXXXXX");
 		Thread.sleep(3000);
 		d.findElement(By.xpath("//input[@placeholder='Password']")).sendKeys("XXXXXXXXX");
 		Thread.sleep(3000);
